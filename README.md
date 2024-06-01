@@ -1,4 +1,4 @@
-## MNIST Backpropagation Algorithm Implementation & SGD Implementation
+## Backpropagation Algorithm & SGD & CNN Implementation
 
 擔任深度學習助教時寫給同學的教學範例程式
 
