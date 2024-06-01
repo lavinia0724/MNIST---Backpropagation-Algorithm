@@ -1,4 +1,5 @@
 ## Backpropagation Algorithm & SGD & CNN Implementation
+###### tags: `Deep Learning` `MNIST` `PyTorch` `CNN` `2024` 
 
 擔任深度學習助教時寫給同學的教學範例程式
 
