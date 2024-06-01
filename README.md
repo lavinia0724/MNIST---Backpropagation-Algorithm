@@ -12,7 +12,7 @@
 ```
 
 ## Backpropagation Algorithm to Classify MNIST
-我的文章：[Deep Learning - Backpropagation Algorithm to Classify MNIST](https://lavinia0724.github.io/2024/05/13/Deep-Learning-Backpropagation-Algorithm-to-Classify-MNIST/)
+我的部落格文章：[Deep Learning - Backpropagation Algorithm to Classify MNIST](https://lavinia0724.github.io/2024/05/13/Deep-Learning-Backpropagation-Algorithm-to-Classify-MNIST/)
 
 - `backpropagation9.py`
 	- 純用 Python 手刻的 Backpropagation Algorithm to Classify MNIST
@@ -26,12 +26,12 @@
 	- 測試資料集的標準答案
 
 ## CNN to Classify FashionMNIST
-我的文章：[Deep Learning - CNN to Classify FashionMNIST](https://lavinia0724.github.io/2024/05/24/Deep-Learning-CNN-to-Classify-FashionMNIST/)
+我的部落格文章：[Deep Learning - CNN to Classify FashionMNIST](https://lavinia0724.github.io/2024/05/24/Deep-Learning-CNN-to-Classify-FashionMNIST/)
 - `CNN_main.py` : 透過 PyTorch 撰寫的 CNN to Classify FashionMNIST
 - `best_model.pth` : 示範的 best model，準確率大約 93%
 
 ## Simple Stochastic Gradient Descent Implementation
-我的文章：[Deep Learning - Simple Stochastic Gradient Descent Implementation](https://lavinia0724.github.io/2024/05/08/Deep-Learning-Simple-Stochastic-Gradient-Descent-Implementation/)
+我的部落格文章：[Deep Learning - Simple Stochastic Gradient Descent Implementation](https://lavinia0724.github.io/2024/05/08/Deep-Learning-Simple-Stochastic-Gradient-Descent-Implementation/)
 
 - Lab1-1
 	- `Lab1_traindata1.txt` : 輸入資料
