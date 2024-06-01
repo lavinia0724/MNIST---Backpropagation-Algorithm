@@ -1,6 +1,25 @@
-## MNIST-Backpropagation-Algorithm
+## MNIST Backpropagation Algorithm Implementation & SGD Implementation
 
-可以參考我的這篇文章：[Deep Learning Backpropagation Algorithm to Classify MNIST](https://lavinia0724.github.io/2024/05/13/Deep-Learning-Backpropagation-Algorithm-to-Classify-MNIST/)
+擔任深度學習助教時寫給同學的範例程式
+
+├─MNIST-Backpropagation-Algorithm
+└─Simple Stochastic Gradient Descent Implementation
+    ├─Lab1-1
+    └─Lab1-2
+
+## Simple Stochastic Gradient Descent Implementation
+可以參考我的這篇文章：[Deep Learning - Simple Stochastic Gradient Descent Implementation](https://lavinia0724.github.io/2024/05/08/Deep-Learning-Simple-Stochastic-Gradient-Descent-Implementation/)
+- Lab1-1
+	- `Lab1_traindata1.txt` : 輸入資料
+	- `output.png` : 輸出圖
+	- `main.py` : 自行撰寫隨機梯度下降的線性回歸程式
+- Lab1-2
+	- `Lab1_traindata2.csv` : 輸入資料
+	- `main.py` : 自行撰寫隨機梯度下降的線性回歸程式
+
+## MNIST Backpropagation Algorithm Implementation
+
+可以參考我的這篇文章：[Deep Learning - Backpropagation Algorithm to Classify MNIST](https://lavinia0724.github.io/2024/05/13/Deep-Learning-Backpropagation-Algorithm-to-Classify-MNIST/)
 
 - `backpropagation9.py`
 	- 純用 Python 手刻的 Backpropagation Algorithm to Classify MNIST
